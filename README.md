@@ -1,5 +1,5 @@
 # 52-weeks-programming-challenge
-Implement a project every week in a year. Practice comming up with problems/ideas and solving/implementing them any prefered programming language/frameworks.
+Implement a project every week in year 2018. Practice comming up with problems/ideas and solving/implementing them any prefered programming language/frameworks.
 
 # Constraints
 * Describe problem solving process in details, i.e., breaking problem into smaller ones and propose solution for each one before combining to solve the original.
