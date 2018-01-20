@@ -6,4 +6,4 @@ Implement a project every week in year 2018. Practice comming up with problems/i
 * The problem/idea can be derived from others' but not allowed to look at any solution code. Instead, reading surrounding references (e.g., APIs docs) or refer to recommended code snippet only for small problem as mentioned above.
 
 # Challenge List
-1. **(_Jan/15/2018 - Jan/21/2018_)** [facebook-friend-status](https://github.com/aqd14/facebook-friend-status) -- Simple web app to summarize your Facebook friends' activities in an intuitive way
+1. **(_Jan/15/2018 - Jan/21/2018_)** [facebook-photo-gallery](https://github.com/aqd14/facebook-photo-gallery) -- Simple web app using Facebook Graph APIs to get the list of uploaded/tagged photos then responsively layout them.
