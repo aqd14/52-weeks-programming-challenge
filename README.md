@@ -8,5 +8,7 @@ Implement a project every week in year 2018. Practice comming up with problems/i
 ## Challenge List
 1. **(_Jan/15/2018 - Jan/21/2018_)** [facebook-photo-gallery](https://github.com/aqd14/facebook-photo-gallery) -- Simple web app using Facebook Graph APIs to get the list of uploaded/tagged photos then responsively layout them.
 
+2. **(_Jan/22/2018 - Jan/29/2018_)** [where-have-they-been](https://github.com/aqd14/where-have-they-been) -- Display taken photos from Instagram on corresponding visited location in Google Maps.
+
 ### Acknowledgement
 Inspired by kkdai's [project52](https://github.com/kkdai/project52)
